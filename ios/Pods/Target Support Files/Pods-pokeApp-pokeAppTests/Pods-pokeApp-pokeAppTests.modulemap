@@ -1,0 +1,6 @@
+module Pods_pokeApp_pokeAppTests {
+  umbrella header "Pods-pokeApp-pokeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
